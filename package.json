@@ -1,0 +1,10 @@
+{
+  "name": "purescript-tagless",
+  "version": "0.1.0",
+  "description": "An extensible algebra for creating typesafe DSLs in Purescript",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Anupam Jain",
+  "license": "Apache2.0"
+}
